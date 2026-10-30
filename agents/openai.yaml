@@ -1,0 +1,4 @@
+interface:
+  display_name: "Minimal Decision UX"
+  short_description: "Design polished interfaces with fewer decisions"
+  default_prompt: "Use $build-minimal-decision-ux to simplify this interface for fast completion, clear hierarchy, accessibility, and polished visual design."
